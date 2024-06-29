@@ -25,3 +25,6 @@ See [HISTORY.md](./HISTORY.md).
 - [CutefishOS](https://github.com/cutefishos)
 - [TeamVastsea](https://github.com/TeamVastsea), provide [the new website](https://testweb.lingmo.org/).
 - Martin Chan(in LingmoOS QQ Group), provide the `Lingmo OS` name.
+
+## Suborganizations
+- [LingmoOS-Testing](https://github.com/LingmoOS-Testing)
