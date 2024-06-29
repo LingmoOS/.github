@@ -19,7 +19,7 @@ Aninana|[Website translation](https://github.com/TeamVastsea/lingmoos-frontend/p
 zrll|Developer of [the new website](https://testweb.lingmo.org/)|[Github](https://github.com/zrll12)
 
 ## History
-See [HISTORY.md](./HISTORY.md).
+See [lingmo-history](https://github.com/LingmoOS/lingmo-history/blob/main/README.md).
 
 ## Acknowledgements
 - [CutefishOS](https://github.com/cutefishos)
