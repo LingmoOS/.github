@@ -33,3 +33,4 @@ See [lingmo-history](https://github.com/LingmoOS/lingmo-history/blob/main/README
 ## Links
 - Offical Website(temporarily died): <https://lingmo.org/>
 - Offical Discord Server: <https://discord.com/invite/2KYZJ5D6Dn>
+- Community Discord Server: <https://discord.gg/w8H8vKpmHY>
