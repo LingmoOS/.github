@@ -1,6 +1,6 @@
 name: "申请加入"
 description: "申请加入 LingmoOS Development Team（简体中文）"
-title: "[加入申请] "
+title: "[加入申请]"
 body:
   - type: markdown
     attributes:
@@ -10,20 +10,19 @@ body:
   - type: input
     id: qq-id
     attributes:
-      label: QQ号
-      description: 您的QQ号（可选）
-      placeholder: e.g. 10000
+      label: QQ号（可选）
+      placeholder: "例: 10000"
   - type: textarea
     id: reason
     attributes:
       label: 为什么想加入 LingmoOS Development Team？
-      description: 请简单说明您的原因（如果是被邀请进来请标注是谁邀请的）
+      placeholder: "请简单说明您的原因（如果是被邀请进来请标注是谁邀请的）"
     validations:
       required: true
   - type: textarea
     id: introduce_yourself
     attributes:
       label: 介绍一下你自己
-      description: e.g. Your Coding Skills(C++, Python, etc.)
+      placeholder: "例: 你的编程技能 (C++, Python等)"
     validations:
       required: true
