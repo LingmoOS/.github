@@ -1,0 +1,23 @@
+name: "Join Request"
+description: "Apply to join the LingmoOS Development Team (English)"
+title: "[Join Request]"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you want to join the LingmoOS Development Team, please fill out the form below. After submission, we will process it within 72 hours.
+        Please note that we may ask for more information. Therefore, please pay attention to notifications from your GitHub-bound email.
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why do you want to join the LingmoOS Development Team?
+      placeholder: "Please briefly state your reason (if invited, please mention who invited you)"
+    validations:
+      required: true
+  - type: textarea
+    id: introduce_yourself
+    attributes:
+      label: Introduce yourself
+      placeholder: "e.g., Your programming skills (C++, Python, etc.)"
+    validations:
+      required: true
