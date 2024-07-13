@@ -16,13 +16,13 @@ body:
     id: reason
     attributes:
       label: 为什么想加入 LingmoOS Development Team？
-      placeholder: 请简单说明您的原因（如果是被邀请进来请标注是谁邀请的）
+      placeholder: "请简单说明您的原因（如果是被邀请进来请标注是谁邀请的）"
     validations:
       required: true
   - type: textarea
     id: introduce_yourself
     attributes:
       label: 介绍一下你自己
-      placeholder: 例: 你的编程技能 (C++, Python等)
+      placeholder: "例: 你的编程技能 (C++, Python等)"
     validations:
       required: true
