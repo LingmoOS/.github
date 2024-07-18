@@ -8,7 +8,7 @@ Lingmo GNU/Linux (Lingmo OS) is a desktop based Linux operating system developed
 [Floating Dream](https://github.com/lingmo-dream)|Project Leader
 [Elysia](https://github.com/ganyuanzhen)|Maintainer of LingmoDE
 [Intro](https://github.com/Intro-iu)|Maintainer of LingmoDE & Arch/Alpine Ports
-[Snowball](https://github.com/SnowballXueQiu)|Maintainer of [New LingmoOS Offical Website](https://testweb.lingmo.org/)
+[Snowball](https://github.com/SnowballXueQiu)|Maintainer of the <https://www.lingmo.org> website
 [PIKACHUIM](https://github.com/PIKACHUIM)|Maintainer of LingmoOS Docker Image
 [chun-awa](https://github.com/chun-awa)|Main developer in [ArchLingmo SIG](https://github.com/orgs/LingmoOS/teams/arch-lingmo-sig), ~~actually do nothing~~
 
@@ -17,23 +17,23 @@ Lingmo GNU/Linux (Lingmo OS) is a desktop based Linux operating system developed
 --------|--------
 [Sato Ida](https://github.com/Sato-Ida)|Wallpapers Contributor & UI Designer
 [Aninana](https://github.com/Aninana)|[Website translation](https://github.com/TeamVastsea/lingmoos-frontend/pull/6/commits/e0b6961a59a049bcdae5fea797716168bd85f2b0) Contributor
-[zrll](https://github.com/zrll12)|Developer of [the new website](https://testweb.lingmo.org/)
+[zrll](https://github.com/zrll12)|<https://www.lingmo.org/> website Developer
 [Anyi](https://github.com/9523140211)|Mascot
 
 ## History
 See [lingmo-history](https://github.com/LingmoOS/lingmo-history/blob/main/README.md).
 
-## Acknowledgements
+## Acknowledgements(Alphabetical Order)
 - [CutefishOS](https://github.com/cutefishos)
-- [TeamVastsea](https://github.com/TeamVastsea), provide [the new website](https://testweb.lingmo.org/).
 - Martin Chan(in LingmoOS QQ Group), provide the `Lingmo OS` name.
 - [PIKACHUIM](https://github.com/PIKACHUIM), provide the backend server for LingmoOS
+- [TeamVastsea](https://github.com/TeamVastsea), provide <https://lingmo.org/> website.
 
 ## Suborganizations
 - [LingmoOS-Testing](https://github.com/LingmoOS-Testing)
 
 ## Links
-- Offical Website(temporarily died): <https://lingmo.org/>
+- Offical Website: <https://lingmo.org/>
 - Offical Discord Server: <https://discord.com/invite/2KYZJ5D6Dn>
 - Community Discord Server: <https://discord.gg/w8H8vKpmHY>
 - Join Us: <https://github.com/LingmoOS/.github/issues/new/choose>
