@@ -10,6 +10,7 @@ Lingmo GNU/Linux (Lingmo OS) is a desktop based Linux operating system developed
 [Intro](https://github.com/Intro-iu)|Maintainer of LingmoDE Wayland Session(WIP) & Arch/Alpine Ports
 [Snowball](https://github.com/SnowballXueQiu)|Maintainer of the <https://www.lingmo.org> website
 [PIKACHUIM](https://github.com/PIKACHUIM)|Maintainer of [LingmoOS Docker Image](https://github.com/PIKACHUIM/DockerFiles/blob/main/Dockers/Debian/Desktop/Lingmo), Server Provider
+[Linux-qitong](https://github.com/linux-qitong)|Lingmo Community Administrator
 [chun-awa](https://github.com/chun-awa)|Main developer in [ArchLingmo SIG](https://github.com/orgs/LingmoOS/teams/arch-lingmo-sig), ~~LingmoOS Github Profile Editor~~
 [Sato Ida](https://github.com/Sato-Ida)|Wallpapers & UI Designer
 [Aninana](https://github.com/Aninana)|[Website translation](https://github.com/TeamVastsea/lingmoos-frontend/pull/6/commits/e0b6961a59a049bcdae5fea797716168bd85f2b0) Contributor
