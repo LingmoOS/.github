@@ -17,7 +17,7 @@ Lingmo GNU/Linux (Lingmo OS) is a desktop based Linux operating system developed
 --------|--------
 [Sato Ida](https://github.com/Sato-Ida)|Wallpapers Contributor & UI Designer
 [Aninana](https://github.com/Aninana)|[Website translation](https://github.com/TeamVastsea/lingmoos-frontend/pull/6/commits/e0b6961a59a049bcdae5fea797716168bd85f2b0) Contributor
-[zrll](https://github.com/zrll12)|<https://www.lingmo.org/> website Developer
+[zrll](https://github.com/zrll12)|<https://www.lingmo.org/> Website Developer
 [Anyi](https://github.com/9523140211)|Mascot
 
 ## History
