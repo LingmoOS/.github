@@ -6,9 +6,9 @@ Lingmo GNU/Linux (Lingmo OS) is a desktop based Linux operating system developed
 **Name**|**Role**
 --------|--------
 [Floating Dream](https://github.com/lingmo-dream)|Project Leader
-[Elysia](https://github.com/ganyuanzhen)|Maintainer of LingmoDE, Code Reviewer
-[Intro](https://github.com/Intro-iu)|Maintainer of LingmoDE Wayland Session(WIP) & Arch/Alpine Ports
-[Snowball](https://github.com/SnowballXueQiu)|Maintainer of the <https://www.lingmo.org> website
+[Elysia](https://github.com/ganyuanzhen)|LingmoDE Developer, Code Reviewer, Lingmo Software Repository Maintainer
+[Intro](https://github.com/Intro-iu)|LingmoDE Wayland Session(WIP) Developer & Arch/Alpine Ports Maintainer
+[Snowball](https://github.com/SnowballXueQiu)|<https://www.lingmo.org> Website Maintainer
 [PIKACHUIM](https://github.com/PIKACHUIM)|Maintainer of [LingmoOS Docker Image](https://github.com/PIKACHUIM/DockerFiles/blob/main/Dockers/Debian/Desktop/Lingmo), Server Provider
 [Linux-qitong](https://github.com/linux-qitong)|Lingmo Community Administrator
 [chun-awa](https://github.com/chun-awa)|Main developer in [ArchLingmo SIG](https://github.com/orgs/LingmoOS/teams/arch-lingmo-sig), ~~LingmoOS Github Profile Editor~~, ~~LingmoOS Historian~~
@@ -16,6 +16,7 @@ Lingmo GNU/Linux (Lingmo OS) is a desktop based Linux operating system developed
 [Aninana](https://github.com/Aninana)|[Website translation](https://github.com/TeamVastsea/lingmoos-frontend/pull/6/commits/e0b6961a59a049bcdae5fea797716168bd85f2b0) Contributor
 [zrll](https://github.com/zrll12)|Website Developer
 [Anyi](https://github.com/9523140211)|Mascot
+[183600](https://github.com/183600)|Yet another mascot
 
 ## History
 See [lingmo-history](https://github.com/LingmoOS/lingmo-history/blob/main/README.md).
