@@ -8,7 +8,7 @@ Lingmo GNU/Linux (Lingmo OS) is a desktop based Linux operating system developed
 [Floating Dream](https://github.com/lingmo-dream)|Project Leader
 [Elysia](https://github.com/ganyuanzhen)|LingmoDE Developer, Code Reviewer, Lingmo Software Repository Maintainer
 [Intro](https://github.com/Intro-iu)|LingmoDE Wayland Session(WIP) Developer & Arch/Alpine Ports Maintainer
-[Snowball](https://github.com/SnowballXueQiu)|<https://www.lingmo.org> Website Source Code Maintainer
+[Snowball](https://github.com/SnowballXueQiu)|<https://www.lingmo.org> Website Maintainer
 [PIKACHUIM](https://github.com/PIKACHUIM)|Maintainer of [LingmoOS Docker Image](https://github.com/PIKACHUIM/DockerFiles/blob/main/Dockers/Debian/Desktop/Lingmo), Server Provider
 [Linux-qitong](https://github.com/linux-qitong)|Lingmo Community Administrator
 [chun-awa](https://github.com/chun-awa)|Main developer in [ArchLingmo SIG](https://github.com/orgs/LingmoOS/teams/arch-lingmo-sig), ~~LingmoOS Github Profile Editor~~, ~~LingmoOS Historian~~
