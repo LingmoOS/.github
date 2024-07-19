@@ -6,7 +6,7 @@ Lingmo GNU/Linux (Lingmo OS) is a desktop based Linux operating system developed
 **Name**|**Role**
 --------|--------
 [Floating Dream](https://github.com/lingmo-dream)|Project Leader
-[Elysia](https://github.com/ganyuanzhen)|Maintainer of LingmoDE, Code Reviewer
+[Elysia](https://github.com/ganyuanzhen)|LingmoDE Developer, Code Reviewer, Lingmo Software Repository Maintainer
 [Intro](https://github.com/Intro-iu)|Maintainer of LingmoDE Wayland Session(WIP) & Arch/Alpine Ports
 [Snowball](https://github.com/SnowballXueQiu)|Maintainer of the <https://www.lingmo.org> website
 [PIKACHUIM](https://github.com/PIKACHUIM)|Maintainer of [LingmoOS Docker Image](https://github.com/PIKACHUIM/DockerFiles/blob/main/Dockers/Debian/Desktop/Lingmo), Server Provider
