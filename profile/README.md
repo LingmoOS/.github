@@ -34,7 +34,7 @@ To improve the Linux user experience, Lingmo OS includes the Spark App Store, al
 
 ## Join Development
 With few developers on the LingmoOS team, we welcome more contributors to join the project.
-If you want to join us, fill out the form in <https://github.com/LingmoOS/.github/issues/new/choose>
+If you want to join us, fill out the form in <https://github.com/LingmoOS/join-dev-team/issues/new/choose>
 
 ## Suborganizations
 - [LingmoOS-Testing](https://github.com/LingmoOS-Testing)
