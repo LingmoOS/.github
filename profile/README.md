@@ -9,9 +9,6 @@ Lingmo OS can run on low-performance hardware, offering a lighter and smoother e
 ### New UI and Desktop Environment
 Lingmo OS features a new design different from traditional KDE, making operations simpler. We have optimized and restructured CutefishDE to enhance user interaction and visual appeal.
 
-### Built-in Spark App Store
-To improve the Linux user experience, Lingmo OS includes the Spark App Store, allowing users to download necessary software without using the command line.
-
 ![Metrics](https://lingmoos.github.io/lingmo-metrics/metrics.svg)
 
 ## LingmoOS Development Team Members
