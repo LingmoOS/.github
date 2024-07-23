@@ -15,7 +15,7 @@ To improve the Linux user experience, Lingmo OS includes the Spark App Store, al
 **Name**|**Role**
 --------|--------
 [Floating Dream](https://github.com/lingmo-dream)|Project Leader
-[Elysia](https://github.com/ganyuanzhen)|LingmoDE Developer, Code Reviewer, Lingmo Software Repository Maintainer
+[Elysia](https://github.com/ganyuanzhen)|LingmoDE Developer, Code Reviewer, [LingmoOS-Testing](https://github.com/LingmoOS-Testing) Owner, Lingmo Software Repository Maintainer
 [Intro](https://github.com/Intro-iu)|LingmoDE Wayland Session(WIP) Developer & [Arch](https://github.com/LingmoOS-Testing/lingmo-arch-pkgbuilder)/[Alpine](https://github.com/LingmoOS-Testing/lingmo-alpine-apkbuilder) Ports Maintainer
 [PIKACHUIM](https://github.com/PIKACHUIM)|Maintainer of [LingmoOS Docker Image](https://github.com/PIKACHUIM/DockerFiles/blob/main/Dockers/Debian/Desktop/Lingmo), Server Provider
 [Snowball](https://github.com/SnowballXueQiu)|[Website Frontend](https://github.com/TeamVastsea/lingmoos-frontend) Maintainer
@@ -37,10 +37,10 @@ If you want to join us, fill out the form in <https://github.com/LingmoOS/join-d
 - [LingmoOS-Testing](https://github.com/LingmoOS-Testing)
 
 ## Links
-- Offical Website: <https://lingmo.org/>
-- Offical Discord Server: <https://discord.com/invite/2KYZJ5D6Dn>
+- Official Website: <https://lingmo.org/>
+- Official Discord Server: <https://discord.com/invite/2KYZJ5D6Dn>
 - Community Discord Server: <https://discord.com/invite/w8H8vKpmHY>
-- Offical Telegram: <https://t.me/+ffiOdFIY83czYzE1>
+- Official Telegram: <https://t.me/+ffiOdFIY83czYzE1>
 - History of LingmoOS: <https://github.com/LingmoOS/lingmo-history/blob/main/README.md>
 
 ## Acknowledgements(Alphabetical Order)
