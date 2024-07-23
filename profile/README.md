@@ -15,7 +15,7 @@ To improve the Linux user experience, Lingmo OS includes the Spark App Store, al
 **Name**|**Role**
 --------|--------
 [Floating Dream](https://github.com/lingmo-dream)|Project Leader
-[Elysia](https://github.com/ganyuanzhen)|LingmoDE Developer, Code Reviewer, Lingmo Software Repository Maintainer
+[Elysia](https://github.com/ganyuanzhen)|LingmoDE Developer, Code Reviewer, [LingmoOS-Testing](https://github.com/LingmoOS-Testing) Owner, Lingmo Software Repository Maintainer
 [Intro](https://github.com/Intro-iu)|LingmoDE Wayland Session(WIP) Developer & [Arch](https://github.com/LingmoOS-Testing/lingmo-arch-pkgbuilder)/[Alpine](https://github.com/LingmoOS-Testing/lingmo-alpine-apkbuilder) Ports Maintainer
 [PIKACHUIM](https://github.com/PIKACHUIM)|Maintainer of [LingmoOS Docker Image](https://github.com/PIKACHUIM/DockerFiles/blob/main/Dockers/Debian/Desktop/Lingmo), Server Provider
 [Snowball](https://github.com/SnowballXueQiu)|[Website Frontend](https://github.com/TeamVastsea/lingmoos-frontend) Maintainer
