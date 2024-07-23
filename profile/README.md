@@ -37,10 +37,10 @@ If you want to join us, fill out the form in <https://github.com/LingmoOS/join-d
 - [LingmoOS-Testing](https://github.com/LingmoOS-Testing)
 
 ## Links
-- Offical Website: <https://lingmo.org/>
-- Offical Discord Server: <https://discord.com/invite/2KYZJ5D6Dn>
+- Official Website: <https://lingmo.org/>
+- Official Discord Server: <https://discord.com/invite/2KYZJ5D6Dn>
 - Community Discord Server: <https://discord.com/invite/w8H8vKpmHY>
-- Offical Telegram: <https://t.me/+ffiOdFIY83czYzE1>
+- Official Telegram: <https://t.me/+ffiOdFIY83czYzE1>
 - History of LingmoOS: <https://github.com/LingmoOS/lingmo-history/blob/main/README.md>
 
 ## Acknowledgements(Alphabetical Order)
