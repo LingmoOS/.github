@@ -24,7 +24,7 @@ To improve the Linux user experience, Lingmo OS includes the Spark App Store, al
 [Aninana](https://github.com/Aninana)|Lingmo Community Assistance
 [hanzn-zzx](https://github.com/hanzn-zzx)|Lingmo Community Administrator
 [Sato Ida](https://github.com/Sato-Ida)|Wallpapers & UI Designer
-[walterfang1209](https://github.com/walterfang1209)|
+[walterfang1209](https://github.com/walterfang1209)|`document.write`r
 [zrll](https://github.com/zrll12)|[Website Frontend](https://github.com/TeamVastsea/lingmoos-frontend) Developer
 [Anyi](https://github.com/Anyi-qaq)|Mascot
 [183600](https://github.com/183600)|Yet another mascot
