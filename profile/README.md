@@ -22,7 +22,7 @@ To improve the Linux user experience, Lingmo OS includes the Spark App Store, al
 [chun-awa](https://github.com/chun-awa)|Main developer in [ArchLingmo SIG](https://github.com/orgs/LingmoOS/teams/arch-lingmo-sig), Community Discord Server Administrator, ~~LingmoOS Github Profile Editor~~, ~~LingmoOS Historian~~
 [Linux-qitong](https://github.com/linux-qitong)|Lingmo Community Administrator
 [Aninana](https://github.com/Aninana)|Lingmo Community Assistance
-[hanzn-zzx](https://github.com/hanzn-zzx)|Lingmo Community Administrator
+[hanzn-zzx](https://github.com/hanzn-zzx)|Document and Wiki Editing
 [Sato Ida](https://github.com/Sato-Ida)|Wallpapers & UI Designer
 [walterfang1209](https://github.com/walterfang1209)|`document.write`r
 [zrll](https://github.com/zrll12)|[Website Frontend](https://github.com/TeamVastsea/lingmoos-frontend) Developer
