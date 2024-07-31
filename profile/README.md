@@ -17,16 +17,17 @@ To improve the Linux user experience, Lingmo OS includes the Spark App Store, al
 [Floating Dream](https://github.com/lingmo-dream)|Project Leader
 [Elysia](https://github.com/ganyuanzhen)|LingmoDE Developer, Code Reviewer, [LingmoOS-Testing](https://github.com/LingmoOS-Testing) Owner, Lingmo Software Repository Maintainer
 [Intro](https://github.com/Intro-iu)|LingmoDE Wayland Session(WIP) Developer & [Arch](https://github.com/LingmoOS-Testing/lingmo-arch-pkgbuilder)/[Alpine](https://github.com/LingmoOS-Testing/lingmo-alpine-apkbuilder) Ports Maintainer
+[devalexandre](https://github.com/devalexandre)|ArchLingmo & LingmoDE Developer
 [PIKACHUIM](https://github.com/PIKACHUIM)|Maintainer of [LingmoOS Docker Image](https://github.com/PIKACHUIM/DockerFiles/blob/main/Dockers/Debian/Desktop/Lingmo), Server Provider
 [Snowball](https://github.com/SnowballXueQiu)|[Website Frontend](https://github.com/TeamVastsea/lingmoos-frontend) Maintainer
 [chun-awa](https://github.com/chun-awa)|Main developer in [ArchLingmo SIG](https://github.com/orgs/LingmoOS/teams/arch-lingmo-sig), Community Discord Server Administrator, ~~LingmoOS Github Profile Editor~~, ~~LingmoOS Historian~~
-[N55743](https://github.com/N55743)|Developer
+[Sato Ida](https://github.com/Sato-Ida)|Wallpapers & UI Designer
 [Linux-qitong](https://github.com/linux-qitong)|Lingmo Community Administrator
 [Aninana](https://github.com/Aninana)|Lingmo Community Administrator Assistance
+[walterfang1209](https://github.com/walterfang1209)|Document & Wiki Writer
 [hanzn-zzx](https://github.com/hanzn-zzx)|Document & Wiki Editor
-[Sato Ida](https://github.com/Sato-Ida)|Wallpapers & UI Designer
-[walterfang1209](https://github.com/walterfang1209)|`document.write`r
 [zrll](https://github.com/zrll12)|[Website Frontend](https://github.com/TeamVastsea/lingmoos-frontend) Developer
+[N55743](https://github.com/N55743)|LingmoDE Developer
 [Anyi](https://github.com/Anyi-qaq)|Mascot
 [183600](https://github.com/183600)|Yet another mascot
 [DefectingCat](https://github.com/DefectingCat)|Mascot with cat included
