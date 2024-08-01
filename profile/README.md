@@ -1,17 +1,17 @@
 # Lingmo OS Organization
 
 ## Hi Cutefish regression in another form. 👋
-Lingmo GNU/Linux (Lingmo OS) is a operating system based on Debian GNU/Linux and adapted to the amd64 architecture. It offers a beautiful Desktop environment, includes software tailored for this environment, and features a unified UI style. Lingmo OS aims to provide a smooth and visually appealing desktop experience on low-performance hardware.
+Lingmo GNU/Linux (Lingmo OS) is a operating system based on Debian GNU/Linux and Arch Linux(currently [ArchLingmo](https://github.com/orgs/LingmoOS/projects/6) is WIP). It offers a beautiful Desktop environment, includes software tailored for this environment, and features a unified UI style. Lingmo OS aims to provide a smooth and visually appealing desktop experience on low-performance hardware.
 
 ### Lightweight and Smooth Experience
-Lingmo OS can run on low-performance hardware, offering a lighter and smoother experience compared to traditional desktop operating systems.
+Lingmo OS can run on low-performance hardware, offering a lighter and smoother experience than desktop operating systems like Windows.
 
 ### Built-in Spark App Store
-To improve the Linux user experience, Lingmo OS includes the Spark App Store, allowing users to download necessary software without using the command line.
+To improve the user experience, Lingmo OS includes the Spark App Store, allowing users to download necessary software without using the command line.
 
 ![Metrics](https://lingmoos.github.io/lingmo-metrics/metrics.svg)
 
-## LingmoOS Development Team Members
+## LingmoOS Development Team Core Members
 **Name**|**Role**
 --------|--------
 [Floating Dream](https://github.com/lingmo-dream)|Project Leader
@@ -27,13 +27,10 @@ To improve the Linux user experience, Lingmo OS includes the Spark App Store, al
 [walterfang1209](https://github.com/walterfang1209)|Document & Wiki Writer
 [hanzn-zzx](https://github.com/hanzn-zzx)|Document & Wiki Editor
 [zrll](https://github.com/zrll12)|[Website Frontend](https://github.com/TeamVastsea/lingmoos-frontend) Developer
-[N55743](https://github.com/N55743)|LingmoDE Developer
-[Anyi](https://github.com/Anyi-qaq)|Mascot
-[183600](https://github.com/183600)|Yet another mascot
-[DefectingCat](https://github.com/DefectingCat)|Mascot with cat included
+[DefectingCat](https://github.com/DefectingCat)|Mascot
 
 ## Join Development
-With few developers on the LingmoOS team, we welcome more contributors to join the project.
+With few developers in the LingmoOS Development Team, we welcome more contributors to join the project.
 If you want to join us, fill out the form in <https://github.com/LingmoOS/join-dev-team/issues/new/choose>
 
 ## Suborganizations
@@ -47,8 +44,8 @@ If you want to join us, fill out the form in <https://github.com/LingmoOS/join-d
 - History of LingmoOS: <https://github.com/LingmoOS/lingmo-history/blob/main/README.md>
 
 ## Acknowledgements(Alphabetical Order)
+- All people contributed to the LingmoOS Project.
 - [CutefishOS](https://github.com/cutefishos), the base of LingmoOS.
 - Martin Chan(in LingmoOS QQ Group), provide the `Lingmo OS` name.
 - [PIKACHUIM](https://github.com/PIKACHUIM), provide the backend server for LingmoOS.
 - [TeamVastsea](https://github.com/TeamVastsea), provide the frontend of <https://www.lingmo.org> website.
-- And so many people contributed to the LingmoOS Project.
