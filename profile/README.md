@@ -1,7 +1,7 @@
 # Lingmo OS Organization
 
 ## Hi Cutefish regression in another form. 👋
-Lingmo GNU/Linux (Lingmo OS) is a operating system based on Debian GNU/Linux and Arch Linux(currently [ArchLingmo](https://github.com/orgs/LingmoOS/projects/6) is WIP). It offers a beautiful Desktop environment, includes software tailored for this environment, and features a unified UI style. Lingmo OS aims to provide a smooth and visually appealing desktop experience on low-performance hardware.
+Lingmo GNU/Linux (Lingmo OS) is a operating system based on Debian GNU/Linux, [Arch Linux](https://github.com/orgs/LingmoOS/projects/6)(currently WIP) and [NixOS](https://github.com/LingmoOS-Testing/lingmo-nix). It offers a beautiful Desktop environment, includes software tailored for this environment, and features a unified UI style. Lingmo OS aims to provide a smooth and visually appealing desktop experience on low-performance hardware.
 
 ### Lightweight and Smooth Experience
 Lingmo OS can run on low-performance hardware, offering a lighter and smoother experience than desktop operating systems like Windows.
@@ -20,6 +20,7 @@ To improve the user experience, Lingmo OS includes the Spark App Store, allowing
 [devalexandre](https://github.com/devalexandre)|ArchLingmo & LingmoDE Developer
 [PIKACHUIM](https://github.com/PIKACHUIM)|Maintainer of [LingmoOS Docker Image](https://github.com/PIKACHUIM/DockerFiles/blob/main/Dockers/Debian/Desktop/Lingmo), Server Provider
 [Snowball](https://github.com/SnowballXueQiu)|[Website Frontend](https://github.com/TeamVastsea/lingmoos-frontend) Maintainer
+[arkimium](https://github.com/arkimium)|[LingmoNix](https://github.com/LingmoOS-Testing/lingmo-nix) Maintainer
 [chun-awa](https://github.com/chun-awa)|Main developer in [ArchLingmo SIG](https://github.com/orgs/LingmoOS/teams/arch-lingmo-sig), Community Discord Server Administrator, ~~LingmoOS Github Profile Editor~~, ~~LingmoOS Historian~~
 [Sato Ida](https://github.com/Sato-Ida)|Wallpapers & UI Designer
 [Linux-qitong](https://github.com/linux-qitong)|Lingmo Community Administrator
