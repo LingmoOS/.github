@@ -21,7 +21,7 @@ To improve the user experience, Lingmo OS includes the Spark App Store, allowing
 [PIKACHUIM](https://github.com/PIKACHUIM)|Maintainer of [LingmoOS Docker Image](https://github.com/PIKACHUIM/DockerFiles/blob/main/Dockers/Debian/Desktop/Lingmo), Server Provider
 [Snowball](https://github.com/SnowballXueQiu)|[Website Frontend](https://github.com/TeamVastsea/lingmoos-frontend) Maintainer
 [arkimium](https://github.com/arkimium)|[LingmoNix](https://github.com/LingmoOS-Testing/lingmo-nix) Maintainer
-[chun-awa](https://github.com/chun-awa)|Main developer in [ArchLingmo SIG](https://github.com/orgs/LingmoOS/teams/arch-lingmo-sig), Community Discord Server Administrator, ~~LingmoOS Github Profile Editor~~, ~~LingmoOS Historian~~
+[chun-awa](https://github.com/chun-awa)|Main developer of ArchLingmo, Community Discord Server Administrator, ~~LingmoOS Github Profile Editor~~, ~~LingmoOS Historian~~
 [Sato Ida](https://github.com/Sato-Ida)|Wallpapers & UI Designer
 [Linux-qitong](https://github.com/linux-qitong)|Lingmo Community Administrator
 [Aninana](https://github.com/Aninana)|Lingmo Community Administrator Assistance
@@ -30,8 +30,8 @@ To improve the user experience, Lingmo OS includes the Spark App Store, allowing
 [zrll](https://github.com/zrll12)|[Website Frontend](https://github.com/TeamVastsea/lingmoos-frontend) Developer
 [DefectingCat](https://github.com/DefectingCat)|Mascot
 
-## Join Development
-With few developers in the LingmoOS Development Team, we welcome more contributors to join the project.
+## Join Us
+Most developers in LingmoOS Development Team are high school student and they have almost no time to develop LingmoOS, so we welcome more contributors to join the project.
 If you want to join us, fill out the form in <https://github.com/LingmoOS/join-dev-team/issues/new/choose>
 
 ## Suborganizations
@@ -42,7 +42,7 @@ If you want to join us, fill out the form in <https://github.com/LingmoOS/join-d
 - Official Discord Server: <https://discord.com/invite/2KYZJ5D6Dn>
 - Community Discord Server: <https://discord.com/invite/w8H8vKpmHY>
 - Official Telegram: <https://t.me/+ffiOdFIY83czYzE1>
-- History of LingmoOS: <https://github.com/LingmoOS/lingmo-history/blob/main/README.md>
+- History of LingmoOS: <https://github.com/LingmoOS/lingmo-history>
 
 ## Acknowledgements(Alphabetical Order)
 - All people contributed to the LingmoOS Project.
