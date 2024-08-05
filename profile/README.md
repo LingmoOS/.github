@@ -42,6 +42,7 @@ If you want to join us, fill out the form in <https://github.com/LingmoOS/join-d
 - Official Discord Server: <https://discord.com/invite/2KYZJ5D6Dn>
 - Community Discord Server: <https://discord.com/invite/w8H8vKpmHY>
 - Official Telegram: <https://t.me/+ffiOdFIY83czYzE1>
+- Matrix: <https://matrix.to/#/#lingmo-community:chat.neboer.site>
 - History of LingmoOS: <https://github.com/LingmoOS/lingmo-history>
 
 ## Acknowledgements(Alphabetical Order)
