@@ -39,6 +39,10 @@ Enhancing the ease of use, Lingmo OS comes with the built-in Spark App Store, en
 - LingmoOS on gitee (not actively maintained): <https://gitee.com/LingmoOS>
 - LingmoOS on Debian Salsa: <https://salsa.debian.org/lingmoos-team>
 
+## International Support
+
+Translation is hosted by [Weblate](https://hosted.weblate.org/). Click [here](https://hosted.weblate.org/projects/lingmoos/) to participate in the translation!
+
 ## Join Us
 Most of us are high school student and have almost no time, so we welcome more contributors to join the project.
 If you want to join us, fill out the form in <https://github.com/LingmoOS/join-dev-team/issues/new/choose> or send an email to <team@lingmo.org>.
