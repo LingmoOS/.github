@@ -31,6 +31,7 @@ Enhancing the ease of use, Lingmo OS comes with the built-in Spark App Store, en
 
 ## Suborganizations
 - [LingmoOS-Testing](https://github.com/LingmoOS-Testing)
+- [Lingmo-Archive](https://github.com/Lingmo-Archive)
 
 ## Links
 - Official Website: <https://lingmo.org/>
