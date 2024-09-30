@@ -52,7 +52,7 @@ If you want to join us, fill out the form in <https://github.com/LingmoOS/join-d
 
 ## Acknowledgements
 All people contributed to the LingmoOS Project, including:
-- Developers in our team.
+- All LingmoOS contributors.
 - Martin Chan(in LingmoOS QQ Group), provide the `Lingmo OS` name.
 - [PIKACHUIM](https://github.com/PIKACHUIM), provide the backend server for LingmoOS.
 And Organizations:
