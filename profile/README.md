@@ -28,8 +28,8 @@ Enhancing the ease of use, Lingmo OS comes with the built-in Spark App Store, en
 [walterfang1209](https://github.com/walterfang1209)|Document & Wiki Writer
 [hanzn-zzx](https://github.com/hanzn-zzx)|Document & Wiki Editor
 [Sato Ida](https://github.com/Sato-Ida)|Wallpapers & UI Designer
-[Snowball](https://github.com/SnowballXueQiu)|[Website Frontend](https://github.com/TeamVastsea/lingmoos-frontend) Maintainer
-[Redish101](https://github.com/Redish101)|[Website Frontend](https://github.com/TeamVastsea/lingmoos-frontend) Maintainer
+[Snowball](https://github.com/SnowballXueQiu)|[Web](https://github.com/TeamVastsea/lingmoos-frontend) Development Manager
+[Redish101](https://github.com/Redish101)|[Website](https://github.com/TeamVastsea/lingmoos-frontend) Maintenance personnel
 [Ariasaka](https://github.com/LYXOfficial)|[Website Frontend](https://github.com/TeamVastsea/lingmoos-frontend) Maintainer
 [arkimium](https://github.com/arkimium)|[LingmoNix](https://github.com/LingmoOS-Testing/lingmo-nix) Maintainer
 
