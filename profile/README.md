@@ -14,11 +14,10 @@ Enhancing the ease of use, Lingmo OS comes with the built-in Spark App Store, en
 
 ![Metrics](https://lingmoos.github.io/lingmo-metrics/metrics.svg)
 
-## Lingmo Community Members
+## Lingmo OS Team Members
 **Name**|**Role**
 --------|--------
 [Floating Dream](https://github.com/lingmo-dream)|Project Leader, OS Pack & Release, Mascot
-[Elysia](https://github.com/ganyuanzhen)|**Lingmo DE** Developer, Code Reviewer, [LingmoOS-Testing](https://github.com/LingmoOS-Testing) Owner
 [Intro](https://github.com/Intro-iu)|[Arch](https://github.com/LingmoOS-Testing/lingmo-arch-pkgbuilder)/[Alpine](https://github.com/LingmoOS-Testing/lingmo-alpine-apkbuilder) packages Maintainer
 [chun-awa](https://github.com/chun-awa)|ArchLingmo Maintainer, Code Reviewer, ~~[Historian](https://github.com/LingmoOS/lingmo-history)~~
 [devalexandre](https://github.com/devalexandre)|ArchLingmo Developer
