@@ -10,8 +10,10 @@ Lingmo OS can run on low-performance hardware, offering a lighter and smoother e
 Enhancing the ease of use, Lingmo OS comes with the built-in Spark App Store, enabling users to effortlessly discover and install essential applications without needing to use the command line. This user-friendly feature simplifies software management, making it easier than ever to keep your system up-to-date and equipped with the tools you need.
 
 ## GitHub Stats
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingmoOS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-![Translate Status](https://hosted.weblate.org/widget/lingmoos/svg-badge.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingmoOS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Translate Status](https://hosted.weblate.org/widget/lingmoos/svg-badge.svg)](https://hosted.weblate.org/projects/lingmoos/)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/LingmoOS/aur/test.yml)](https://github.com/LingmoOS/aur/actions/workflows/test.yml)
+[![Discussions](https://img.shields.io/github/discussions/LingmoOS/Community)](https://github.com/orgs/LingmoOS/discussions)
 
 ![Metrics](https://lingmoos.github.io/lingmo-metrics/metrics.svg)
 
