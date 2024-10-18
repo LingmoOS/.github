@@ -11,6 +11,7 @@ Enhancing the ease of use, Lingmo OS comes with the built-in Spark App Store, en
 
 ## GitHub Stats
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingmoOS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Translate Status](https://hosted.weblate.org/widget/lingmoos/svg-badge.svg)
 
 ![Metrics](https://lingmoos.github.io/lingmo-metrics/metrics.svg)
 
