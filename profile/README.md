@@ -17,3 +17,21 @@ Enhancing the ease of use, Lingmo OS comes with the built-in Spark App Store, en
 [![Discussions](https://img.shields.io/github/discussions/LingmoOS/Community)](https://github.com/orgs/LingmoOS/discussions)
 
 ![Metrics](https://lingmoos.github.io/lingmo-metrics/metrics.svg)
+
+## Suborganizations
+- [LingmoOS-Testing](https://github.com/LingmoOS-Testing)
+- [Lingmo-Archive](https://github.com/Lingmo-Archive)
+
+## Links
+- Official Website: <https://lingmo.org/>
+- Discord Server: <https://discord.com/invite/w8H8vKpmHY>
+- Telegram: <https://t.me/+ffiOdFIY83czYzE1>
+- LingmoOS on gitee (not actively maintained): <https://gitee.com/LingmoOS>
+- LingmoOS on Debian Salsa: <https://salsa.debian.org/lingmoos-team>
+
+## Acknowledgements
+- All contributors.
+- Martin Chan, provide the `Lingmo OS` name.
+- [PIKACHUIM](https://github.com/PIKACHUIM), provide the backend server for LingmoOS.
+- [CutefishOS](https://github.com/cutefishos), the base of LingmoOS.
+- [TeamVastsea](https://github.com/TeamVastsea), provide the website frontend.
