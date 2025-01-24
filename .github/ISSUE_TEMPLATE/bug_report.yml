@@ -1,0 +1,48 @@
+name: Bug Report
+description: File a bug report
+labels: [bug]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        \> ![Note]
+        \> For support questions, please use [Community](https://github.com/orgs/LingmoOS/discussions). This repository's issues are reserved for feature requests and bug reports.
+
+  - type: dropdown
+    attributes:
+      label: "I'm submitting a ..."
+      options:
+        - bug report
+        - feature request
+        - support request (Please do not submit support request here, see note at the top of this issue template)
+
+  - type: textarea
+    attributes:
+      label: "What is the current behavior?"
+
+  - type: textarea
+    attributes:
+      label: "If the current behavior is a bug, please provide the steps to reproduce and if possible a minimal demo of the problem"
+
+  - type: textarea
+    attributes:
+      label: "What is the expected behavior?"
+
+  - type: textarea
+    attributes:
+      label: "What is the motivation / use case for changing the behavior?"
+
+  - type: input
+    attributes:
+      label: "Please tell us about your environment:"
+      value: |
+        Version: (2.x.x-beta, 3.x for example)
+        System Architecture: AMD64, Arm64, etc.
+        OS Version: xxx
+        Distro: xxx
+
+  - type: textarea
+    attributes:
+      label: "Other information"
+      description: "e.g. detailed explanation, stacktraces, related issues, suggestions how to fix, links for us to have context (e.g. stackoverflow, gitter, etc.)"
