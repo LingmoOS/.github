@@ -20,22 +20,18 @@ body:
   - type: textarea
     attributes:
       label: "What is the current behavior?"
-      description: ""
 
   - type: textarea
     attributes:
       label: "If the current behavior is a bug, please provide the steps to reproduce and if possible a minimal demo of the problem"
-      description: ""
 
   - type: textarea
     attributes:
       label: "What is the expected behavior?"
-      description: ""
 
   - type: textarea
     attributes:
       label: "What is the motivation / use case for changing the behavior?"
-      description: ""
 
   - type: input
     attributes:
