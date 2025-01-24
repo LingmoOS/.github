@@ -6,8 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        > ![Note]
-        > For support questions, please use [Community](https://github.com/orgs/LingmoOS/discussions). This repository's issues are reserved for feature requests and bug reports.
+        \> ![Note]
+        \> For support questions, please use [Community](https://github.com/orgs/LingmoOS/discussions). This repository's issues are reserved for feature requests and bug reports.
 
   - type: dropdown
     attributes:
