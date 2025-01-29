@@ -32,7 +32,7 @@ body:
     attributes:
       label: "What is the motivation / use case for changing the behavior?"
 
-  - type: input
+  - type: textarea
     attributes:
       label: "Please tell us about your environment:"
       value: |
