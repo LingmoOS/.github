@@ -1,6 +1,7 @@
 # Lingmo OS Organization
 
 ## Hi Cutefish regression in another form. 👋
+[![Download Lingmo OS](https://img.shields.io/sourceforge/dt/lingmo-os.svg)](https://sourceforge.net/projects/lingmo-os/files/latest/download)
 [About Lingmo OS](https://wiki.lingmo.org/wiki/getting-started#about-lingmo-os)
 
 ## GitHub Stats
