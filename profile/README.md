@@ -3,7 +3,8 @@
 ## Hi Cutefish regression in another form. 👋
 [About Lingmo OS](https://wiki.lingmo.org/wiki/getting-started#about-lingmo-os)
 
-## GitHub Stats
+## Statistics
+[![Download Lingmo OS](https://img.shields.io/sourceforge/dt/lingmo-os.svg)](https://sourceforge.net/projects/lingmo-os/files/latest/download)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLingmoOS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Translate Status](https://hosted.weblate.org/widget/lingmoos/svg-badge.svg)](https://hosted.weblate.org/projects/lingmoos/)
 [![Daily ISO Build](https://github.com/LingmoOS/live-build-config/actions/workflows/build.yml/badge.svg)](https://github.com/LingmoOS/live-build-config/actions/workflows/build.yml)
