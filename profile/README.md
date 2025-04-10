@@ -14,7 +14,7 @@
 
 ## Suborganizations
 - [LingmoOS-Testing](https://github.com/LingmoOS-Testing)
-- [Lingmo-Archive](https://github.com/Lingmo-Archive)
+- [LingmoOS-Archive](https://github.com/LingmoOS-Archive)
 
 ## Links
 - Official Website: <https://lingmo.org/>
