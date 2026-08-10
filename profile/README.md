@@ -1,7 +1,6 @@
 # Lingmo OS Organization
 
 ## Hi [Cutefish](https://github.com/cutefishos) regression in another form. 👋
-[About Lingmo OS](https://wiki.lingmo.org/wiki/getting-started#about-lingmo-os)
 
 [![Download Lingmo OS](https://img.shields.io/sourceforge/dt/lingmo-os.svg)](https://sourceforge.net/projects/lingmo-os/files/latest/download)
 [![Translate Status](https://hosted.weblate.org/widget/lingmoos/svg-badge.svg)](https://hosted.weblate.org/projects/lingmoos/)
@@ -9,6 +8,7 @@
 [![AUR Build Status](https://img.shields.io/github/actions/workflow/status/LingmoOS/aur/build.yml?label=AUR%20Build)](https://github.com/LingmoOS/aur)
 [![Discussions](https://img.shields.io/github/discussions/LingmoOS/Community)](https://github.com/orgs/LingmoOS/discussions)
 
+[About Lingmo OS](https://wiki.lingmo.org/wiki/getting-started#about-lingmo-os)
 
 ## Suborganizations
 - [LingmoOS-Testing](https://github.com/LingmoOS-Testing)
